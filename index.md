@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 # Ben Tirana's First CS193 Homework
-# List of things I like about 193
+### List of things I like about 193
 - Great opertunity to learn new tools
 - Makes transition into CS easier
 - Awesome having a student organization and TAs teach the class
