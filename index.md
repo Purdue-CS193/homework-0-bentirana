@@ -1,6 +1,11 @@
 ## Welcome to GitHub Pages
 # Ben Tirana's First CS193 Homework
-
+# List of things I like about 193
+- Great opertunity to learn new tools
+- Makes transition into CS easier
+- Awesome having a student organization and TAs teach the class
+- Friendly classmates
+- Actually learning how to use GitHub yay
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
